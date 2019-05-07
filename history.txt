@@ -1,0 +1,154 @@
+    1  pwd
+    2  ls
+    3  clear
+    4  pwd
+    5  ls
+    6  cd
+    7  cd Downloads
+    8  pwd
+    9  ls
+   10  cd..
+   11  cd ..
+   12  cd /
+   13  ls
+   14  clear
+   15  cd Music
+   16  ls
+   17  cd Recruit
+   18  cd recruit
+   19  ls
+   20  pwd
+   21  ls
+   22  cd home
+   23  pwd
+   24  ls
+   25  pwd
+   26  cd recruit
+   27  ls
+   28  cd Muisc
+   29  ls
+   30  cd Music
+   31  ls
+   32  pwd
+   33  cd ..
+   34  ls
+   35  cd Documents
+   36  ls
+   37  cp index.html index.htmlcopy
+   38  ls
+   39  rm index.htmlcopy
+   40  ls
+   41  cp index.html /home/recruit/Downloads
+   42  ls
+   43  cd
+   44  cd ..
+   45  ls
+   46  pwd
+   47  cd Documents
+   48  cd ..
+   49  ls
+   50  cd /home
+   51  pwd
+   52  ls
+   53  cd /home/recruit/
+   54  ls
+   55  cd Documents
+   56  ls
+   57  pwd
+   58  ls
+   59  cp index.html /home/recruit/Music
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd Music
+   64  ls
+   65  rm index.html
+   66  ls
+   67  cd ..
+   68  pwd
+   69  cd Documents
+   70  ls
+   71  mkdir TESTFOLDER
+   72  cd TESTFOLDER
+   73  cd ..
+   74  rmdir TESTFOLDER
+   75  mkdir TEST
+   76  LS
+   77  ls
+   78  cd ..
+   79  ls
+   80  cd Documents
+   81  ls
+   82  rmdir TEST
+   83  cd TEST
+   84  LS
+   85  ls
+   86  cd ..
+   87  ls
+   88  rm - r TEST
+   89  rm -r TEST
+   90  clear
+   91  man ls
+   92  man copy
+   93  man ks
+   94  man ls
+   95  clear
+   96  mkdir
+   97  mkdir MEMORY-GAME
+   98  LS
+   99  ls
+  100  cd MEMORY-GAME
+  101  ls
+  102  touch index.html style.css scripts.js
+  103  mkdir img
+  104  ls
+  105  pwd
+  106  ls
+  107  sudo apt install git
+  108  sudo apt install terminator
+  109  vs code
+  110  VS Code
+  111  Visual Studio Code
+  112  clear
+  113  sudo apt install google chrome
+  114  sudo apt install Google Chrome
+  115  sudo apt install MicroSoft PowerPoint
+  116  sudo apt install microsoft powerpoint
+  117  sudo apt install brackets
+  118  sudo apt install sublime
+  119  et -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  120  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+  121  sudo apt-get install apt-transport-https
+  122  echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+  123  sudo apt-get update
+  124  sudo apt-get install sublime-text
+  125  pwd
+  126  ls
+  127  cd Desktop
+  128  ls
+  129  cd node.js
+  130  sudo apt install nodejs
+  131  pwd
+  132  ls
+  133  cd Desktop
+  134  ls
+  135  cd git-basic-exercises
+  136  ls
+  137  git branch
+  138  git checkout milkshake-flavours 
+  139  git branch
+  140  nano milkshakes.md
+  141  git status
+  142  git add milkshakes.md
+  143  git commit -m "added initial flavours"
+  144  git log
+  145  git branch
+  146  git checkout milkshake-flavours 
+  147  history 
+  148  git branch history
+  149  git branch
+  150  git checkout milkshake-flavours 
+  151  git checkout history
+  152  git branch
+  153  git log
+  154  history > history.txt
